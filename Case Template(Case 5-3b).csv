@@ -1,0 +1,51 @@
+Plantings,,,,Planting,,,,,
+,Soybeans,Corn,Wheat,Totals,,,,,
+W&S Hours Required,1,0.9,0.6,87,,,,,
+S&F Hours Required,1.4,1.2,0.7,106,,,,,
+Net Value,$70,$60,$40,"$5,800",,,,,
+,,,,,,,,,
+Acres Planted,0,30,100,130,,,,,
+,,>=,>=,,,,,,
+,,30,100,,,,,,
+,,1,0.05,,,,,,
+,,acre/cow,acre/hen,,,,,Range Name,Cells
+,,,,,,,,AcresPlanted,B7:D7
+Livestock,,,Livestock,,,,,Available,G39:G41
+,Cows,Hens,Totals,,,,,BarnHouseLimits,B30:C30
+Hours Required per Month,10,0.05,400,,,,,CurrentLivestock,B26:C26
+Grazing Land Required,2,0,60,,,,,HoursWorked,B36:C36
+Net Annual Cash Income,$850,$4.25,"$34,000",,,,,InvestmentFund,F23
+,,,,,,,,MonetaryWorth,E47
+Beginning Value (Current Livestock),"$35,000","$5,000",,,,,,NewLivestock,B27:C27
+Decrease in Value per Year,10%,25%,,,,,,Total,E39:E41
+End Value (Current Livestock),"$31,500","$3,750","$35,250",,Investment,,,TotalLivestock,B28:C28
+,,,,,Fund,,,Wage,B34:C34
+Cost of New Livestock,"$1,500",$3.00,$0,<=,"$20,000",,,,
+End Value (New Livestock),"$1,350",$2.25,$0,,,,,,
+,,,,,,,,,
+Current Livestock,30,"2,000",,,,,,,
+New Livestock,0,0,,,,,,,
+Total Livestock,30,"2,000",,,,,,,
+,<=,<=,,,,,,,
+Barn/House Limits,42,"5,000",,,,,,,
+,,,,,,,,,
+Neighboring Farm Work,,,Neighbor,,,,,,
+,W&S,S&F,Totals,,,,,,
+Wage,$5,$5.50,"$18,532",,,,,,
+,,,,,,,,,
+Hours Worked,"1,513","1,994",3507,,,,,,
+,,,,,,,,,
+Totals,Plantings,Livestock,Neighbor,Total,,Available,,,
+W&S Hours,87,"2,400","1,513","4,000",<=,"4,000",,,
+S&F Hours,106,"2,400","1,994","4,500",<=,"4,500",,,
+Acreage,130,60,0,190,<=,640,,,
+,,,,,,,,,
+Net Income,"$5,800","$34,000","$18,532","$58,332",,,,,
+End of Year Value,,"$35,250",,"$35,250",,,,,
+Leftover Investment Fund,,"$20,000",,"$20,000",,,,,
+Living Expenses,,,,"$40,000",,,,,
+Total Monetary Worth,,,,"$73,582",,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
