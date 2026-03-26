@@ -1,10 +1,10 @@
 # Farm Management- Optimization and Decision Support Modeling in Business
 
-## Project Overview
+## 📊 Project Overview
 This project develops a Linear Programming (LP) optimization model for a multi-generational farm to determine the optimal mix of livestock(cows,hens) and crop allocation(soybeans,corn,wheat)
 The model integrates land,labor,financial investment and feed requirements to maximize the farm's end-of-year monetary worth under both deterministic and uncertain weather conditions. It further extends into scenario analysis and sensitivity analysis, making it a robust decision-making tool under uncertainity.
 
-## Objective
+## 🎯Objective
 The primary objective of this project is to:
 * Maximize total monetary worth at the end of the year
 * Optimize allocation of
@@ -16,18 +16,18 @@ The primary objective of this project is to:
     * Crop profitability vs risk(weather uncertainity)
 * Support data-driven strategic planning using optimization techniques
 
-## Project Deliverables
+## 📁 Project Deliverables
 * Case Report [Case Report] (
 * Excel
 * Presentation 
 
-## Tools & Techniques 
+## 🧠 Tools & Techniques 
 * Linear Programming (LP)
 * Excel Solver
 * Sensitivity Analysis
 * Scenario Modeling
   
-## Key Insights 
+## 📈 Key Insights 
 1. No additional livestock is optimal
     * Investing in more cows or hens is not financially optimal
     * Better alternative: Use excess labor for off-farm income
@@ -56,7 +56,7 @@ The primary objective of this project is to:
    * Corn has high flexxibility (large allowable decrease)
    * Help prioritize data accuracy efforts
 
-## Model Highlights 
+## 💡Model Highlights 
 ### Descision Variables 
 * Livestock: Cows(C), Hens(H)
 * Crops: Soybeans(A1),Corn(A2),Wheat(A3)
@@ -67,7 +67,7 @@ The primary objective of this project is to:
 * Livestock housing limits
 * Budget constraints
 
-## Team Members 
+## 🧑‍💻 Team Members 
 * Bavya Nalajala
 * Bhavana Sarvesh 
 
