@@ -1,0 +1,1 @@
+# Farm-Management-Optimization-and-Decision-Support-Modeling-in-Business
